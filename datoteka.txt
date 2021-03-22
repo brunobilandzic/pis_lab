@@ -4,3 +4,6 @@ Nova tekstualna datoteka.
 --- Second Commit ---
 
 Modificirana datoteka.
+
+
+Ispravak buga u datoteci.txt
