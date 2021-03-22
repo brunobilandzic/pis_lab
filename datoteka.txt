@@ -1,1 +1,6 @@
 Nova tekstualna datoteka.
+
+
+--- Second Commit ---
+
+Modificirana datoteka.
